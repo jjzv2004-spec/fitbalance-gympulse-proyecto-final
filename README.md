@@ -8,12 +8,12 @@ Proyecto final de Integración de Datos y Prospectiva.
 - [Abrir el notebook en Google Colab](https://colab.research.google.com/github/jjzv2004-spec/fitbalance-gympulse-proyecto-final/blob/main/notebooks/Proyecto_Final_FitBalance_GymPulse.ipynb).
 - [Notebook con resultados y gráficas](notebooks/Proyecto_Final_FitBalance_GymPulse.ipynb).
 - [Presentación editable](presentacion/Proyecto_Final_FitBalance_GymPulse.pptx).
-- [Video de apoyo con narración sintética en español](video/Presentacion_FitBalance_GymPulse.mp4).
+- Video de presentación: pendiente de la grabación de los integrantes.
 - [Guion y reparto sugerido de la exposición](docs/Guion_video.md).
 - [Informe de resultados](docs/Informe_resultados.md).
 - [Diccionario de variables](docs/Diccionario_variables.md) y [supuestos](docs/Supuestos_y_limitaciones.md).
 
-El video usa narración sintética de apoyo y no reproduce las voces de los integrantes. El requisito de asistencia presencial se debe cumplir personalmente.
+Los integrantes grabarán su propia presentación. El requisito de asistencia presencial se debe cumplir personalmente.
 
 ## Pregunta del proyecto
 
@@ -70,7 +70,7 @@ src/           Análisis reproducible
 resultados/    Decisiones por registro, tablas y figuras
 docs/          Informe, diccionario, metodología, guion y verificación del reto
 presentacion/  Presentación editable
-video/         Video de apoyo narrado
+video/         Espacio para la grabación de los integrantes
 tests/         Pruebas numéricas y de integridad
 ```
 

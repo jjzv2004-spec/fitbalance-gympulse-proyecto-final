@@ -1,6 +1,6 @@
 # Guion del video y presentación
 
-Juan José Zapata y Juanita Pineda. Video de apoyo con narración sintética. Para una exposición personal pueden repartirse las diapositivas 1–6 y 7–12. Duración objetivo aproximada: 7–9 minutos, siempre menor a 10.
+Juan José Zapata y Juanita Pineda. Guion de apoyo para la grabación de los integrantes. Para una exposición personal pueden repartirse las diapositivas 1–6 y 7–12. Duración objetivo aproximada: 7–9 minutos, siempre menor a 10.
 
 ## Diapositiva 1: FitBalance y GymPulse
 
@@ -48,4 +48,4 @@ Los resultados permiten proponer tres decisiones. Primero, ejecutar un piloto de
 
 ## Diapositiva 12: El portafolio permite reproducir el análisis
 
-El portafolio reúne las bases, el diccionario de variables, la trazabilidad de la simulación y los supuestos de prospectiva. El notebook contiene resultados y gráficas calculados, y el script reproduce el análisis sin depender de Drive. Las pruebas verifican la correspondencia de los datos, las decisiones de aceptación y la aritmética del presupuesto ambiental. El repositorio y el enlace de Colab permiten revisar el trabajo. En conclusión, demostramos dos métodos de integración y una prospectiva financiera para GEI, manteniendo claras las limitaciones de la calibración. La narración de este video es sintética de apoyo y no corresponde a las voces de los integrantes.
+El portafolio reúne las bases, el diccionario de variables, la trazabilidad de la simulación y los supuestos de prospectiva. El notebook contiene resultados y gráficas calculados, y el script reproduce el análisis sin depender de Drive. Las pruebas verifican la correspondencia de los datos, las decisiones de aceptación y la aritmética del presupuesto ambiental. El repositorio y el enlace de Colab permiten revisar el trabajo. En conclusión, demostramos dos métodos de integración y una prospectiva financiera para GEI, manteniendo claras las limitaciones de la calibración.
