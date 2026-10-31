@@ -1,0 +1,37 @@
+{
+  "registros": 1200,
+  "media_interna": 1324055.9862469372,
+  "media_externa": 1363777.6656499999,
+  "aceptacion_1": 0.95,
+  "aceptacion_2": 0.17666666666666667,
+  "m1": 1140,
+  "m2": 212,
+  "Cr": 0.2449237775851197,
+  "error_media_1": 0.5589176776744481,
+  "error_media_2": 4.4477918890134225,
+  "mejor": {
+    "NG": 2.0,
+    "Media_modelada_COP": 861097.4388898178,
+    "Bruto_horizonte_COP": 266542162.6918459,
+    "Costo_gestion_COP": 47139749.99999999,
+    "Neto_horizonte_COP": 219402412.6918459,
+    "Presupuesto_GEI_COP": 21940241.26918459,
+    "Captura_financiable_tCO2e": 73.13413756394863,
+    "Exposicion_indice": 0.62
+  },
+  "costo_equilibrio": 169628.919982719,
+  "medoides_f": [
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    8.0
+  ],
+  "medoides_s": [
+    153298.7296362087,
+    222078.60599190858,
+    328341.58333145484,
+    485958.1416778274,
+    752078.8187971639
+  ]
+}

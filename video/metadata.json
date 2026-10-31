@@ -1,0 +1,23 @@
+{
+  "duracion_segundos": 433.77,
+  "duracion_por_diapositiva": [
+    35.86,
+    36.96,
+    38.26,
+    35.18,
+    34.32,
+    35.47,
+    38.4,
+    34.34,
+    34.1,
+    37.42,
+    36.36,
+    37.1
+  ],
+  "voz": "es-CO-GonzaloNeural",
+  "tipo_narracion": "sintética de apoyo, no voces de los integrantes",
+  "tamano_bytes": 5862517,
+  "duracion_final_verificada_segundos": 434.18,
+  "audio_verificado": "AAC presente, nivel no silencioso",
+  "video_verificado": "H.264, fotogramas revisados"
+}
